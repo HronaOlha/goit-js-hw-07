@@ -1,7 +1,5 @@
 # goit-js-hw-07
 
-# goit-js-hw-06
-
 ## Tasks
 
 ### 1.Task 1
